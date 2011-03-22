@@ -31,8 +31,8 @@ The widget spits out an unstylerd unorderd list with the id "foursquare_latest_c
 
 == Screenshots ==
 
-1. An example of the widgets display in a Wordpress sidebar
-2. The widget's settings in the Admin backend
+1. http://blog.no-panic.at/wp-content/uploads/2011/03/Screen-shot-2011-03-21-at-15.34.29-.png
+2. http://blog.no-panic.at/wp-content/uploads/2011/03/Screen-shot-2011-03-21-at-15.38.36-.png
 
 == Changelog ==
 
