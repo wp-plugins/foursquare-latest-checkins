@@ -3,6 +3,7 @@ Contributors: beerf
 Tags: foursquare, checkins, widget, sidebar
 Requires at least: 3.0
 Tested up to: 3.1
+Donate Link: -
 Stable Tag: trunk
 
 Displays the users latest Foursquare checkins including venue icons as a sidebar widget.
@@ -39,3 +40,4 @@ The widget spits out an unstylerd unorderd list with the id "foursquare_latest_c
 * First public release.
 
 == Upgrade Notice ==
+*First release
