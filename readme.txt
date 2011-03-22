@@ -11,13 +11,13 @@ Displays the users latest Foursquare checkins including venue icons as a sidebar
 == Description ==
 
 Displays venue names and icons of the latest Foursquare checkins.
-Requires Foursquare Username and Password filled in the widget's settings.
+Requires Foursquare Username and Password filled out in the widget's settings.
 
 == Installation ==
 
 1. Upload `foursquare_latest_checkins.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Select where you would like the widget to be displayed under "Apparence/Widgets"
+1. Select where you would like the widget to be displayed under 'Widgets'
 
 == Frequently Asked Questions ==
 
@@ -31,8 +31,8 @@ The widget spits out an unstylerd unorderd list with the id "foursquare_latest_c
 
 == Screenshots ==
 
-1. http://blog.no-panic.at/wp-content/uploads/2011/03/Screen-shot-2011-03-21-at-15.34.29-.png
-2. http://blog.no-panic.at/wp-content/uploads/2011/03/Screen-shot-2011-03-21-at-15.38.36-.png
+1. Example of the Widget in the Sidebar
+2. Configuration
 
 == Changelog ==
 
