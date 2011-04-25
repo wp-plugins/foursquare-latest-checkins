@@ -36,8 +36,13 @@ The widget spits out an unstylerd unorderd list with the id "foursquare_latest_c
 
 == Changelog ==
 
+= 1.0 =
+* Changed input field in Settings for item count to select tag
+* Error handling if there is no Foursquare data or the history has no elements
+* Show checkin time (selectable)
+
 = 0.6 =
 * First public release.
 
 == Upgrade Notice ==
-*First release
+Upgrade through WordPress backend
